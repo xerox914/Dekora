@@ -5,7 +5,6 @@ Dekora ToolKit ```デコラ ```from SKu ```スキュー ``` an open source team 
 
 ## FAQ
 
-Q: I like flat themes.
-A: Dekora is not for you.  There are tons of GUIs with flat themes.
+
 
 SKu ``` /skjuː/ skew スキュー ``` Open Source Projekt
